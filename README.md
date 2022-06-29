@@ -1,4 +1,4 @@
-# Fluid-Dynamics
+# Fluid-mechanics
 
 **流体力学初学者的自学笔记**
 
